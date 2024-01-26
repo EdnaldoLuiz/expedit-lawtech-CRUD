@@ -122,7 +122,7 @@ Para realizar as operações do CRUD de Pessoas é necessario realizar o registr
 {
     "id": 6,
     "name": "Luiz",
-    "login": "luiz@gmail.com",
+    "login": "email@gmail.com",
     "password": "$2a$10$Md24RziTiIVuM0vCUynlEekeEgiomfvpv5tw7KL/nCYLrWEusAnle",
     "enabled": true,
     "authorities": [
@@ -133,7 +133,7 @@ Para realizar as operações do CRUD de Pessoas é necessario realizar o registr
     "accountNonLocked": true,
     "accountNonExpired": true,
     "credentialsNonExpired": true,
-    "username": "luiz@gmail.com"
+    "username": "email@gmail.com"
 }
 ```
 
