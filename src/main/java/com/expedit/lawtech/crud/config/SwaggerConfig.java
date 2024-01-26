@@ -21,6 +21,6 @@ public class SwaggerConfig {
         .name("Lawtech")
         .email("lawtech@gmail.exemplo"))
                 .license(new License()
-                .name("MIT")));
+                .name("Licença MIT")));
     }
 }
