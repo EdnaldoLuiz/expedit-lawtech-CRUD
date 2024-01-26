@@ -1,7 +1,6 @@
 package com.expedit.lawtech.crud.model;
 
 import com.expedit.lawtech.crud.dto.user.UserRegisterDTO;
-import com.expedit.lawtech.crud.dto.user.UserUpdateDTO;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

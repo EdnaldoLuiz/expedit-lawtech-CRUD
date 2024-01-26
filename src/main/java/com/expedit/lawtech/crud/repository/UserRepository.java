@@ -11,4 +11,5 @@ import com.expedit.lawtech.crud.model.User;
 public interface UserRepository extends JpaRepository<User, Long>{
     
     Page<User> findAll(Pageable pageable);
+
 }
